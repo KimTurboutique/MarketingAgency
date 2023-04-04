@@ -4,19 +4,18 @@
 
 This project was done for the Bootcamp Week 1 Challenge. For a marketing company "Horiseon". The project was done with a started code, that was improvised using:
 
-* Code Refactoring
-* Semantic HTML elements
-* DRY CSS practices
+* Code Refactoring- replacing non-semantic HTML tags with semantic HTML- using HTML 5 best practices.
+* DRY CSS practices- limiting repetitive CSS properties by adding class selectors and consolidating the elements that share the same properties. 
 
-Implementing these steps provided accesibility to the webpage. Accessibility was tested using Lighthouse via Chrome Inspector.
+Implementing these steps provided accesibility to the webpage to meet SEO standards. Accessibility was tested using Lighthouse via Chrome Inspector.
 
 ### Webpage screenshots
 
-<img width="1440" alt="1" src="https://user-images.githubusercontent.com/127644189/229936805-60e91fd3-2117-4954-a96b-41530917d19c.png">
+<img width="1440" alt="Screenshot 2023-04-04 at 6 50 43 PM" src="https://user-images.githubusercontent.com/127644189/229939449-d7967715-fb42-435b-bc14-5ca1b9695122.png">
 
-<img width="1440" alt="2" src="https://user-images.githubusercontent.com/127644189/229937446-22b8b641-0953-4e4a-91cd-60c24c2095b6.png">
+<img width="1433" alt="Screenshot 2023-04-04 at 6 51 00 PM" src="https://user-images.githubusercontent.com/127644189/229939464-2c3457a3-e6bf-47c5-b825-011066197c77.png">
 
-<img width="1436" alt="Screenshot 2023-04-04 at 6 43 41 PM" src="https://user-images.githubusercontent.com/127644189/229938410-0d2cec29-b549-4832-874a-c2a7fb4eba03.png">
+<img width="1440" alt="Screenshot 2023-04-04 at 6 51 16 PM" src="https://user-images.githubusercontent.com/127644189/229939493-c4f9c0ed-dcd1-419a-be5b-ff5ede899234.png">
 
 ### References are as follows:
 

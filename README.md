@@ -12,7 +12,11 @@ Implementing these steps provided accesibility to the webpage. Accessibility was
 
 ### Webpage screenshots
 
+<img width="1440" alt="1" src="https://user-images.githubusercontent.com/127644189/229936805-60e91fd3-2117-4954-a96b-41530917d19c.png">
 
+<img width="1440" alt="2" src="https://user-images.githubusercontent.com/127644189/229937446-22b8b641-0953-4e4a-91cd-60c24c2095b6.png">
+
+<img width="1440" alt="3" src="https://user-images.githubusercontent.com/127644189/229937516-20c8f276-5d34-4512-96ed-ec6d91314a51.png">
 
 ### References are as follows:
 

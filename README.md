@@ -16,7 +16,7 @@ Implementing these steps provided accesibility to the webpage. Accessibility was
 
 <img width="1440" alt="2" src="https://user-images.githubusercontent.com/127644189/229937446-22b8b641-0953-4e4a-91cd-60c24c2095b6.png">
 
-<img width="1440" alt="3" src="https://user-images.githubusercontent.com/127644189/229937516-20c8f276-5d34-4512-96ed-ec6d91314a51.png">
+<img width="1436" alt="Screenshot 2023-04-04 at 6 43 41 PM" src="https://user-images.githubusercontent.com/127644189/229938410-0d2cec29-b549-4832-874a-c2a7fb4eba03.png">
 
 ### References are as follows:
 

@@ -9,6 +9,8 @@ This project was done for the Bootcamp Week 1 Challenge. For a marketing company
 
 Implementing these steps provided accesibility to the webpage to meet SEO standards. Accessibility was tested using Lighthouse via Chrome Inspector.
 
+### Webpage URL: https://kimturboutique.github.io/MarketingAgency/
+
 ### Webpage screenshots
 
 <img width="1440" alt="Screenshot 2023-04-04 at 6 50 43 PM" src="https://user-images.githubusercontent.com/127644189/229939449-d7967715-fb42-435b-bc14-5ca1b9695122.png">

@@ -2,7 +2,7 @@
 
 ## Marketing Agency
 
-This project was done for the Bootcamp Week 1 Challenge. For a marketing company "Horiseon". The project was done with a started code, that was improvised using:
+This project was done for the Bootcamp Week 1 Challenge. For a marketing company "Horiseon". The project was done with a starter code, that was improvised using:
 
 * Code Refactoring- replacing non-semantic HTML tags with semantic HTML- using HTML 5 best practices.
 * DRY CSS practices- limiting repetitive CSS properties by adding class selectors and consolidating the elements that share the same properties. 
